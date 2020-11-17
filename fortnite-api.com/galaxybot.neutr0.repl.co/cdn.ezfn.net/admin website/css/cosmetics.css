@@ -1,0 +1,76 @@
+.card-name {
+    font-family: "Luckiest Guy", cursive;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    transform: scale(1, 1.26);
+}
+
+.star-wars {
+    background: radial-gradient(ellipse at center 55%, #FFAF00, #051772)
+}
+
+.icon {
+    background: radial-gradient(ellipse at center 55%, #1BE2E5, #069597)
+}
+
+.dark {
+    background: radial-gradient(ellipse at center 55%, #FF148E, #9D006C)
+}
+
+.dc {
+    background: radial-gradient(ellipse at center 55%, #0032E0, #001665)
+}
+
+.frozen {
+    background: radial-gradient(ellipse at center 55%, #AFD7FF, #001AD9)
+}
+
+.lava {
+    background: radial-gradient(ellipse at center 55%, #F49D09, #B60501)
+}
+
+.marvel {
+    background: radial-gradient(ellipse at center 55%, #D80304, #AB0000)
+}
+
+.common {
+    background: radial-gradient(ellipse at center 55%, #B1B1B1, #79858E)
+}
+
+.uncommon {
+    background: radial-gradient(ellipse at center 55%, #5BFD00, #1E8500)
+}
+
+.rare {
+    background: radial-gradient(ellipse at center 55%, #00FFF6, #006DFF)
+}
+
+.epic {
+    background: radial-gradient(ellipse at center 55%, #D505FF, #9D19FF)
+}
+
+.legendary {
+    background: radial-gradient(ellipse at center 55%, #F68B20, #FF4203)
+}
+
+.mythic {
+    background: radial-gradient(ellipse at center 55%, #FFDE61, #C89214)
+}
+
+.transcendent {
+    background: radial-gradient(ellipse at center 55%, #FF4848, #FF142D)
+}
+
+.unattainable {
+    background: radial-gradient(ellipse at center 55%, #179502, #179502)
+}
+
+.shadow {
+    background: radial-gradient(ellipse at center 55%, #FFFFFF, #515151)
+}
+
+.slurp {
+    background: radial-gradient(ellipse at center 55%, #03F2ED, #0AB36B)
+}
